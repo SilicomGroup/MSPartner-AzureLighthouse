@@ -56,7 +56,7 @@
                         "maximumActivationDuration": "PT8H",
                         "managedByTenantApprovers": [
                             {
-                                "principalId": "6a52db7d-41f9-4966-a3ff-3dbb431c46d7",
+                                "principalId": "dd0504c0-3dba-4358-9184-92efcf9a10e2",
                                 "principalIdDisplayName": "Silicom CSP support - Access approvers"
                             }
                         ]
