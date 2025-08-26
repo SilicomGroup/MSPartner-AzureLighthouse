@@ -1,0 +1,38 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "mspOfferName": {
+      "value": "Silicom CSP support - Light"
+    },
+    "mspOfferDescription": {
+      "value": "Silicom support CSP avec accès restreints"
+    },
+    "managedByTenantId": {
+      "value": "de3da224-a833-4c92-840f-0aae9bc4205e"
+    },
+    "authorizations": {
+      "value": [
+        {
+          "principalId": "48725084-0a22-4760-929e-b9213a98f795",
+          "roleDefinitionId": "cfd33db0-3dd1-45e3-aa9d-cdbdf3b6f24e",
+          "principalIdDisplayName": "Silicom CSP support - Support Request Contributor"
+        },
+        {
+          "principalId": "48725084-0a22-4760-929e-b9213a98f795",
+          "roleDefinitionId": "434105ed-43f6-45c7-a02f-909b2ba83430",
+          "principalIdDisplayName": "Silicom CSP support - Cost Management Contributor"
+        }
+      ]
+    },
+    "eligibleAuthorizations": {
+      "value": [
+        {
+          "principalId": "48725084-0a22-4760-929e-b9213a98f795",
+          "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7",
+          "principalIdDisplayName": "Silicom CSP support - Reader"
+        }
+      ]
+    }
+  }
+}
