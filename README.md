@@ -20,8 +20,8 @@ Choose the delegation level you want to grant. Clicking the button will open the
 
 | Name | Description | Deploy |
 |------|-------------|--------|
-| **Silicom CSP support – Light** | Grants limited access to the subscription (baseline permissions). Can be escalated to **Reader** if needed. | [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSilicomGroup%2FMSPartner-AzureLighthouse%2Frefs%2Fheads%2Fmain%2Flight.json){:target="_blank"} |
-| **Silicom CSP support – Reader** | Grants **Reader** access to the subscription. Can be escalated to **Contributor** if needed. | [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSilicomGroup%2FMSPartner-AzureLighthouse%2Frefs%2Fheads%2Fmain%2Freader.json){:target="_blank"} |
+| **Silicom CSP support – Light** | Grants limited access to the subscription (baseline permissions). Can be escalated to **Reader** if needed. | [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSilicomGroup%2FMSPartner-AzureLighthouse%2Frefs%2Fheads%2Fmain%2Flight.json) |
+| **Silicom CSP support – Reader** | Grants **Reader** access to the subscription. Can be escalated to **Contributor** if needed. | [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSilicomGroup%2FMSPartner-AzureLighthouse%2Frefs%2Fheads%2Fmain%2Freader.json) |
 
 ---
 
